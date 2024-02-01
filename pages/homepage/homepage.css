@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+    width: 100%;
 }
 
 body {
@@ -49,6 +50,7 @@ body {
     border: 1px solid black;
     border-radius: 25px;
     transition: 0.3s;
+    width: 15%;
 }
 
 .work:hover {
@@ -62,6 +64,8 @@ body {
     border: 1px solid white;
     margin: 1.5px;
     cursor: pointer;
+    width: 5%;
+    margin-top:350px ;
 }
 
 .right-content {
