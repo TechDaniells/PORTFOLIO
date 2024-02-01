@@ -193,3 +193,12 @@ body {
     min-height: 50vh;
     width: 90%;
 }
+
+.nav-bar a{
+    width: 60%;
+}
+
+.nav-bar li{
+    font-size: 14px;
+    margin: 0;
+}
