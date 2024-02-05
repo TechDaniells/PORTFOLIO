@@ -22,7 +22,7 @@ body {
 .Home {
     display: flex;
     justify-content: space-between;
-    min-height: 96vh;
+    /* min-height: 96vh; */
     padding: 20px;
 }
 
@@ -48,7 +48,7 @@ body {
     color: white;
     background-color: black;
     margin-inline-start: 50px;
-    margin-bottom: 200px;
+    /* margin-bottom: 200px; */
     cursor: pointer;
     border: 1px solid black;
     border-radius: 25px;
@@ -210,6 +210,8 @@ body {
 
 .main{
     height: 100vh;
+    display: grid;
+    grid-template-rows: 40px auto;
 }
 
 .right-image{
